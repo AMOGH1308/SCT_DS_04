@@ -55,7 +55,6 @@ These findings can be used by policymakers and traffic authorities to enhance ro
 - Further analysis of weather patterns and their contribution to accidents.
 - Developing predictive models for real-time accident hotspot detection.
 - Exploring the impact of road surface conditions (e.g., wet, icy) on accident severity.
-
-
-  [For US_Accidents_March23 Dataset Refer To The This Link:-](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+- For Us_Accidents_March23 Dataset Refer To the Below Link:-
+  [Us_Accidents_March23](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
